@@ -1,4 +1,4 @@
-# TARA
+# ARAD
 
 This repository contains the implementation of the approach proposed 
 in the paper 
